@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T04:17:57.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="R7y7UQ2IIuyKKYJ2slYc" type="github"><diagram id="qHtHpQQcaczuJeylXhVb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-27T04:18:24.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ALq4lyaaCSoHUrOz5CbQ" version="16.1.0" type="github">
+  <diagram id="qHtHpQQcaczuJeylXhVb" name="Page-1">
+    <mxGraphModel dx="460" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry width="1100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-8" value="&lt;h1&gt;Overview&lt;/h1&gt;&lt;p&gt;Asset management&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Derivatives&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;AMM&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lending&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Stableswap&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Order Book&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Oracle&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Layer 1&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="160" width="280" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-9" value="Layer 1 Ecosystem Overview" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-10" value="Layer 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-11" value="Order Book" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-12" value="Oracle" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-13" value="Lending" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-15" value="AMM" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-16" value="StableSwap" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-18" value="Asset Mgmt" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-19" value="Derivatives" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-20" value="Blockchain" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/blockchain.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-21" value="Smart Contract" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/smart_contract.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-22" value="Order Book" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/content_management.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-23" value="StableSwap" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/Bridge.svg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-24" value="Lending" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/transaction_manager.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-25" value="AMM" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/blockchain/message_bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-26" value="Oracle" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/management/api_management.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aUCmkRfdpZ8EMXygmKoB-27" value="Derivative" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/actionable_insight.svg;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
